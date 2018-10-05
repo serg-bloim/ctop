@@ -3,8 +3,8 @@ package main
 import (
 	"math"
 
-	"github.com/bcicen/ctop/connector"
-	"github.com/bcicen/ctop/container"
+	"ctop/connector"
+	"ctop/container"
 	ui "github.com/gizak/termui"
 )
 

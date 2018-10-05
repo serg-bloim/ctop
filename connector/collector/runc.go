@@ -5,8 +5,8 @@ package collector
 import (
 	"time"
 
-	"github.com/bcicen/ctop/config"
-	"github.com/bcicen/ctop/models"
+	"ctop/config"
+	"ctop/models"
 	"github.com/opencontainers/runc/libcontainer"
 	"github.com/opencontainers/runc/libcontainer/cgroups"
 )

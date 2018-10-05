@@ -10,9 +10,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bcicen/ctop/connector/collector"
-	"github.com/bcicen/ctop/connector/manager"
-	"github.com/bcicen/ctop/container"
+	"ctop/connector/collector"
+	"ctop/connector/manager"
+	"ctop/container"
 	"github.com/opencontainers/runc/libcontainer"
 	"github.com/opencontainers/runc/libcontainer/cgroups/systemd"
 )

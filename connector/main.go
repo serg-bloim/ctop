@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/bcicen/ctop/container"
-	"github.com/bcicen/ctop/logging"
+	"ctop/container"
+	"ctop/logging"
 )
 
 var (

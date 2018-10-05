@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bcicen/ctop/models"
+	"ctop/models"
 	api "github.com/fsouza/go-dockerclient"
 )
 

@@ -3,7 +3,7 @@ package single
 import (
 	"time"
 
-	"github.com/bcicen/ctop/models"
+	"ctop/models"
 	ui "github.com/gizak/termui"
 )
 

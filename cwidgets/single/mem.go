@@ -3,7 +3,7 @@ package single
 import (
 	"fmt"
 
-	"github.com/bcicen/ctop/cwidgets"
+	"ctop/cwidgets"
 	ui "github.com/gizak/termui"
 )
 

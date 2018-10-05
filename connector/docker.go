@@ -5,9 +5,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/bcicen/ctop/connector/collector"
-	"github.com/bcicen/ctop/connector/manager"
-	"github.com/bcicen/ctop/container"
+	"ctop/connector/collector"
+	"ctop/connector/manager"
+	"ctop/container"
 	api "github.com/fsouza/go-dockerclient"
 )
 
